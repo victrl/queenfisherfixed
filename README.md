@@ -16,7 +16,7 @@
 	...
 	dependencies: [
 		// Dependencies declare other packages that this package depends on.
-		.package(url: "https://github.com/adiwajshing/Queenfisher.git", from: "0.1.0")
+		.package(url: "https://github.com/victrl/queenfisherfixed.git", from: "0.1.0")
 	],
 	targets: [
 		.target(name: "MyTarget", dependencies: ["Queenfisher", ...])
